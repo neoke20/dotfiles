@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = konczakkevin@gmail.com
+	name = Kevin Konczak
